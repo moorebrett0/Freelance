@@ -1,0 +1,53 @@
+.butterfly {
+    background-image: url("/../img/wonderwordz_butterfly_11.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.duckling {
+    background-image: url("/../img/little-cute-duck-birds-hd-wallpapers-best-widescreen-duck-pictures.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.spider {
+    background-image: url("/../img/5075539180_0fe7d1e908_b.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.dragon {
+    background-image: url("/../img/Storm_rider_by_Ironshod.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.btn-default {
+    background-color: rgba(255, 255, 255, 0);
+    border-color: white;
+    font-weight: bold;
+    color:white;
+}
+
+.btn-default:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+    border-color: white;
+    font-weight: bold;
+    color:white;
+}
+
+body {
+    color: white;    
+}
