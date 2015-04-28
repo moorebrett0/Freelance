@@ -1,0 +1,118 @@
+.container {
+    margin-left: 0px;
+    padding-left: 0px;
+    border-left-width: 0px;
+}
+
+.butterfly {
+    background-image: url("/../img/wonderwordz_butterfly_11.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.duckling {
+    background-image: url("/../img/little-cute-duck-birds-hd-wallpapers-best-widescreen-duck-pictures.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.spider {
+    background-image: url("/../img/5075539180_0fe7d1e908_b.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.dragon {
+    background-image: url("/../img/Storm_rider_by_Ironshod.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.btn-default {
+    background-color: rgba(255, 255, 255, 0);
+    border-color: white;
+    font-weight: bold;
+    color:white;
+}
+
+.btn-default:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+    border-color: white;
+    font-weight: bold;
+    color:white;
+}
+
+.btn-header {
+    display: inline;
+    background-color: rgba(255, 255, 255, 0);
+    border-color: white;
+    font-weight: bold;
+    color:grey;
+}
+
+.btn-header:hover {
+    display: inline;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-color: white;
+    font-weight: bold;
+    color:grey;
+}
+
+
+.header {
+    display: inline;
+    margin-bottom: 40px;
+    background-color: white;
+    width: 1200px;
+    position: absolute;
+    left: 0px;
+    height: 90px;
+    color: grey;
+}
+
+.glyphicon {
+    font-size: 50px;
+
+}
+.round button {
+    border-radius: 50%;
+    height: 90px;
+    width: 90px;
+
+}
+.tile {
+    padding-top: 90px;
+    padding-left: 50px;
+    width: 1200px;
+    height: 900px;
+}
+
+.text-body {
+    padding-top: 60px;
+    width: 260px;
+    left: 0px;
+}
+
+.hd-btn {
+    float:right;
+    right: 20px;
+}
+
+body {
+    color: white;
+}
+.footer {
+    padding-bottom: 200px;
+}
