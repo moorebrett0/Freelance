@@ -5,9 +5,12 @@ John Franti, Brett Moore
 April 23, 2015<br />
 
 ###Description
-
+This is a Freelaner.com website clone built in Angular.
 
 ###Installation
+Clone the into a project folder
+launch a server in the project file via the commandline by typing Python -m SimpleHTTPServer
+load site on localhost:8000.
 
 
 ###Copyright (c) 2015 John Franti, Brett Moore
